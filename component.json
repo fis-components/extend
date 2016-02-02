@@ -1,0 +1,10 @@
+{
+    "name": "extend",
+    "description": "Port of jQuery.extend for node.js and the browser",
+    "repos": "https://github.com/justmoon/node-extend.git",
+    "main": "index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "3.0.0"
+}
